@@ -51,5 +51,12 @@ QR code saved
 
 
 ## License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details.
 
-MIT License
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+GitHub: [Neowizen](https://github.com/Yamil-Serrano)
+
