@@ -13,6 +13,8 @@ fn main() {
     // Read user input into the network_name variable
     io::stdin().read_line(&mut network_name).expect("Error reading line");
 
+    let network_name = network_name.trim(); //delete the /n at the end of the SSID 
+
     println!("Password length: ");
 
     let mut password_length = String::new();
